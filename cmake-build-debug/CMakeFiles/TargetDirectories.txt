@@ -1,0 +1,3 @@
+C:/Users/Glog/Desktop/School/Year Two/Term 1/Data Structures and Algorithms/Strings/cmake-build-debug/CMakeFiles/Strings.dir
+C:/Users/Glog/Desktop/School/Year Two/Term 1/Data Structures and Algorithms/Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Glog/Desktop/School/Year Two/Term 1/Data Structures and Algorithms/Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
